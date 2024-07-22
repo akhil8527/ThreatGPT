@@ -1,0 +1,31 @@
+SecureBankingApp is a sophisticated web-based application designed to enhance online banking experiences. 
+It enables users to perform a variety of banking operations such as checking account balances, transferring funds, 
+paying bills, and managing investments. Additionally, the application includes advanced features for customer support, 
+fraud detection, and secure communication with bank representatives.
+
+Technology Stack:
+
+Frontend: Angular, NgRx, HTML5, SCSS
+Backend: Python with Flask framework
+Database: MySQL
+Authentication: OpenID Connect
+APIs: GraphQL for all major functionalities
+Hosting: Google Cloud Platform (GCP)
+
+Other Services:
+GCP Cloud SQL for database management
+GCP Cloud Storage for storing user documents and transaction records
+GCP Cloud Functions for serverless computing functions
+GCP Cloud CDN for content delivery
+GCP Cloud Armor for protection against web exploits
+
+Security Features:
+Multi-factor authentication (MFA)
+End-to-end encryption for data in transit and at rest
+Role-based access control (RBAC)
+Regular security audits and penetration testing
+
+User Roles:
+Customer: Can view account details, transfer funds, pay bills, and contact support
+Admin: Can manage user accounts, monitor transactions, handle customer inquiries, and perform administrative tasks
+Support Agent: Can assist customers with issues and queries through the secure messaging system
