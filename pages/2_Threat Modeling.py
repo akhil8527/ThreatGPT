@@ -3,7 +3,7 @@ import os
 import base64
 import streamlit as st
 import streamlit.components.v1 as components
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 
 
 from threat_model import create_threat_model_prompt, get_threat_model_openai, get_threat_model_google, json_to_markdown
