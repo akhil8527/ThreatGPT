@@ -560,7 +560,7 @@ selected_model = "gpt-4o"
 # selected_model = "gemini-1.5-pro"
 
 #Load OpenAI and Google Gemini API key
-load_dotenv(override=True)
+#load_dotenv(override=True)
 openai_api_key = os.getenv("OPENAI_API_KEY")   
 google_api_key = os.getenv("GOOGLE_API_KEY")
 
