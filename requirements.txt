@@ -3,3 +3,4 @@ mistralai
 openai
 streamlit
 opencv-python
+numpy
