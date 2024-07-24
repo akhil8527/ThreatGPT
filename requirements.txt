@@ -2,3 +2,4 @@ google.generativeai
 mistralai
 openai
 streamlit
+opencv-python
