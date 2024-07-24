@@ -462,8 +462,8 @@ import os
 import base64
 import streamlit as st
 import streamlit.components.v1 as components
-import numpy as np
-import cv2
+#import numpy as np
+#import cv2
 #from dotenv import load_dotenv
 
 
