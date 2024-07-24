@@ -464,7 +464,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 import numpy as np
 import cv2
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 
 
 from threat_model import create_threat_model_prompt, get_threat_model_openai, get_threat_model_google, create_image_analysis_prompt, get_image_analysis, json_to_markdown
